@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: whiteglass theme
+title: Mungmung's blog
 baseurl: # the subpath of your site, e.g. /blog
-author: Yous 
-description: Minimal, responsive Jekyll theme for hackers. 
+author: Mungmung
+url : http://mk0324.github.io
+description: software develop
 lang: en
 timezone: UTC
 exclude:
