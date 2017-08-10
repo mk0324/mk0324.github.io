@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Sample post"
+title: 안드로이드 스터디(1) - 액티비티 생명주기
 ---
-blog test
+
